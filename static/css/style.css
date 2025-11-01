@@ -102,22 +102,22 @@ body {
 
 @keyframes backgroundRotate {
     0% {
-        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('/static/img/welcome-1.jpg');
+        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('../img/welcome-1.jpg');
     }
     20% {
-        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('/static/img/prophet-1.jpg');
+        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('../img/prophet-1.jpg');
     }
     40% {
-        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('/static/img/about-1.jpg');
+        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('../img/about-1.jpg');
     }
     60% {
-        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('/static/img/footer.jfif');
+        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('../img/footer.jfif');
     }
     80% {
-        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('/static/img/about-2.jpg');
+        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('../img/about-2.jpg');
     }
     100% {
-        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('/static/img/welcome-1.jpg');
+        background-image: linear-gradient(rgba(2, 3, 37, 0.8), rgba(28, 37, 60, 0.7)), url('../img/welcome-1.jpg');
     }
 }
 
@@ -127,22 +127,22 @@ body {
 
 @keyframes backgroundRotateLight {
     0% {
-        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('/static/img/welcome-1.jpg');
+        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('../img/welcome-1.jpg');
     }
     20% {
-        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('/static/img/prophet-1.jpg');
+        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('../img/prophet-1.jpg');
     }
     40% {
-        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('/static/img/about-1.jpg');
+        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('../img/about-1.jpg');
     }
     60% {
-        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('/static/img/footer.jfif');
+        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('../img/footer.jfif');
     }
     80% {
         background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('g');
     }
     100% {
-        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('/static/img/welcome-1.jpg');
+        background-image: linear-gradient(rgba(248, 249, 250, 0.8), rgba(233, 236, 239, 0.7)), url('../img/welcome-1.jpg');
     }
 }
 
